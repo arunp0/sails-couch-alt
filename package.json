@@ -24,7 +24,7 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "async": "^2.3.0",
-    "nano": "^6.2.0",
+    "nano": "^8.1.0",
     "lodash": "^3.10",
     "md5": "^2.2.1",
     "uuid": "^3.0.1",
